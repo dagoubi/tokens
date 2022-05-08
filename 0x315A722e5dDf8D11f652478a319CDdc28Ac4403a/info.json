@@ -1,0 +1,11 @@
+{ 
+"name": "DogeDa",
+"website": "http://bigdoge.info/",
+"description": "DogeDa is a completely decentralized cryptocurrency,  and handed over to every holder fairly and impartially.",
+"explorer": "https://bscscan.com/token/0x315A722e5dDf8D11f652478a319CDdc28Ac4403a",
+"type": "BEP20",
+"symbol": "DogeDa",
+"decimals": 8,
+"status": "active",
+"id": "0x315A722e5dDf8D11f652478a319CDdc28Ac4403a"
+}
